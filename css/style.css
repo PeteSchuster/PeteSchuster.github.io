@@ -1,0 +1,14 @@
+.container--768 {
+    max-width: 768px;
+    margin: 0 auto;
+}
+
+.page-footer {
+    background: #222;
+    color: #fff;
+    padding: 20px;
+}
+
+.page-footer a {
+    color: #fff;
+}
